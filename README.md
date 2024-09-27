@@ -1,4 +1,4 @@
-# BlueprintColorPicker
+# Blueprint Color Picker
 
 The demo project for Blueprint Color Picker Plugin
 
